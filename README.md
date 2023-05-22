@@ -1,4 +1,5 @@
-#Social-Network
+**Social-Network
+
 The objective of this mini project is to design and develop a social network that will allow users to share their users to share their publications with their community. Users will be able to create profiles, follow other users, like and comment on photos.
 The website will consist of the following features:
 
